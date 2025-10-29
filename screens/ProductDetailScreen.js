@@ -9,6 +9,7 @@ import {
   TouchableOpacity,
   View,
   ToastAndroid,
+  Platform,
 } from "react-native";
 import { CartContext } from "../contexts/CartContext";
 import { COLORS } from "../theme/colors";
